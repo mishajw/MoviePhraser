@@ -1,6 +1,6 @@
 package moviephraser
 
-import moviephraser.media.AudioExtractor
+import moviephraser.media.{AudioExtractor, AudioPlayer}
 
 object MoviePhraser {
   def main(args: Array[String]): Unit = {
